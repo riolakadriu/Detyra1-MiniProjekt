@@ -1,0 +1,14 @@
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\bin\Debug\net8.0\miniprojekt-rk69345.exe
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\bin\Debug\net8.0\miniprojekt-rk69345.deps.json
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\bin\Debug\net8.0\miniprojekt-rk69345.runtimeconfig.json
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\bin\Debug\net8.0\miniprojekt-rk69345.dll
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\bin\Debug\net8.0\miniprojekt-rk69345.pdb
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\miniprojekt-rk69345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\miniprojekt-rk69345.AssemblyInfoInputs.cache
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\miniprojekt-rk69345.AssemblyInfo.cs
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\miniprojekt-rk69345.csproj.CoreCompileInputs.cache
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\miniprojekt-rk69345.dll
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\refint\miniprojekt-rk69345.dll
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\miniprojekt-rk69345.pdb
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\miniprojekt-rk69345.genruntimeconfig.cache
+C:\Users\Rinesa Kadriu\OneDrive\Desktop\detyra-miniprojekt\miniprojekt-rk69345\miniprojekt-rk69345\obj\Debug\net8.0\ref\miniprojekt-rk69345.dll
